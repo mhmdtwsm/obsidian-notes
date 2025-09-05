@@ -7,4 +7,3 @@
 #### WebBackEnd
 
 - ***Java script*** Notes
-- hELLO wORLD
